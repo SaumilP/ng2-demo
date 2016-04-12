@@ -1,0 +1,15 @@
+/target/
+target/
+target/*
+*/target/**
+.idea/
+*.log
+*.class
+*.jar
+/node/
+/node_modules/
+/bower_components/
+/dist/
+*.iml
+*.js.map
+/out/

@@ -1,0 +1,36 @@
+{
+    "name": "ng2-spring",
+    "devDependencies": {
+        "bower": "1.6.5",
+        "connect": "^3.3.4",
+        "del": "~1.1.1",
+        "gulp": "~3.8.10",
+        "gulp-clean": "^0.3.1",
+        "gulp-concat": "^2.6.0",
+        "gulp-connect": "^2.2.0",
+        "gulp-debug": "2.1.2",
+        "gulp-download": "0.0.1",
+        "gulp-plumber": "~1.0.1",
+        "gulp-preprocess": "1.2.0",
+        "gulp-rename": "^1.2.2",
+        "gulp-size": "2.0.0",
+        "gulp-sourcemaps": "~1.5.2",
+        "gulp-typescript": "^2.6.0",
+        "open": "0.0.5",
+        "mkpath": "~0.1.0",
+        "rework": "~1.0.1",
+        "rework-npm": "~1.0.0",
+        "serve-static": "~1.8.1",
+        "systemjs-builder": "^0.10.3",
+        "through2": "~0.6.5"
+    },
+    "dependencies": {
+        "angular2": "2.0.0-beta.13",
+        "systemjs": "0.19.25",
+        "es6-shim": "^0.35.0",
+        "reflect-metadata": "0.1.2",
+        "rxjs": "5.0.0-beta.2",
+        "typescript": "^1.8.9",
+        "zone.js": "0.6.6"
+    }
+}
